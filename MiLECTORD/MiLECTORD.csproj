@@ -84,5 +84,20 @@
   <ItemGroup>
     <None Include="Resources\boton-de-play.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-detener.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-de-play1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-de-pausa-de-video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conversacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bandeja-de-entrada.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
